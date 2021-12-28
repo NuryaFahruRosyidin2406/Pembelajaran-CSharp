@@ -1,0 +1,15 @@
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\bin\Debug\net6.0\myfirstproject.exe
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\bin\Debug\net6.0\myfirstproject.deps.json
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\bin\Debug\net6.0\myfirstproject.runtimeconfig.json
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\bin\Debug\net6.0\myfirstproject.dll
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\bin\Debug\net6.0\ref\myfirstproject.dll
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\bin\Debug\net6.0\myfirstproject.pdb
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\obj\Debug\net6.0\myfirstproject.csproj.AssemblyReference.cache
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\obj\Debug\net6.0\myfirstproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\obj\Debug\net6.0\myfirstproject.AssemblyInfoInputs.cache
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\obj\Debug\net6.0\myfirstproject.AssemblyInfo.cs
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\obj\Debug\net6.0\myfirstproject.csproj.CoreCompileInputs.cache
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\obj\Debug\net6.0\myfirstproject.dll
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\obj\Debug\net6.0\ref\myfirstproject.dll
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\obj\Debug\net6.0\myfirstproject.pdb
+D:\GitHub\Pembelajaran-CSharp\myfirstproject\obj\Debug\net6.0\myfirstproject.genruntimeconfig.cache
